@@ -121,5 +121,5 @@ with open("dados.csv", "w", encoding="utf-8") as arq:
 ## Observações
 
 - Não foi possível fazer a consulta em todas as páginas, pois o código apresentava problemas a partir da quinta página, não consegui solucionar o problema.
-- Por conta da falta de tempo não consegui adicionar informações adicionais ao arquivo, como desenvolvedor do jogo, publisher e outras informações, com um tempo a mais, seria possível adicionar essas informações.
+- Por falta de tempo, não consegui adicionar informações adicionais ao arquivo, como desenvolvedor do jogo, publisher e outras informações. Com um tempo a mais, seria possível adicionar essas informações.
 - link do google planilha: https://docs.google.com/spreadsheets/d/1f_aWcZYKZ9aRAMi4_jzUZCGStEDpJDDwx9I0wssN8-I/edit?usp=sharing
